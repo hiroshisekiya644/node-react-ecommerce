@@ -28,7 +28,7 @@ Welcome to my React and Node tutorial to build a fully-functional e-commerce web
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:basir/node-react-ecommerce.git
+$ git clone git@github.com:hiroshisekiya644/node-react-ecommerce.git
 $ cd node-react-ecommerce
 ```
 
